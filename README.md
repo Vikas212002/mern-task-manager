@@ -54,4 +54,4 @@ React, Vite, Bootstrap, Express, MongoDB
 
 ## 👤 Author
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by \[Vikas Kumawat]
